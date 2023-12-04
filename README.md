@@ -47,3 +47,7 @@ This Python script implements a multi-client file-sharing server using sockets a
    ```
 2. Choose option `3` to wait for a connection.
 3. In a separate terminal, run a client script and connect to the server.
+
+Cisco Packet Tracer:
+![Cisco](https://imgur.com/a/38GAScS)
+
